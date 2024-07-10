@@ -1,0 +1,30 @@
+
+body {
+    background-color: rgb(227, 172, 172);
+    padding: 20px;
+  }
+
+  .top{
+    width: 500px;
+    border: 0.5px solid;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgb(109, 106, 106);
+  }
+  details {
+    background-color: #ded1d1;
+    border-bottom: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 5px;
+    box-shadow: 0px 2px 4px rgb(109, 106, 106);
+  }
+  summary {
+    font-weight: bold;
+  }
+
+  .plus {
+    float: right;
+    font-size: 20px;
+  }
